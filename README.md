@@ -1,7 +1,7 @@
-
-
 # Differentiable Quantum-Informed Neural Inversion for Transonic Solar Wind Parameters
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18177152.svg)](https://doi.org/10.5281/zenodo.18177152)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Framework: JAX](https://img.shields.io/badge/Framework-JAX-red.svg)](https://github.com/google/jax)
