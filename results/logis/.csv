@@ -1,0 +1,72 @@
+Synthesize dataset...
+Train size: 171, Test size: 85
+Training...
+Epoch 1/64 | Sup: 2.6924e-01 | Phys: 3.4397e-03
+Epoch 2/64 | Sup: 2.6198e-01 | Phys: 3.3951e-03
+Epoch 3/64 | Sup: 2.5866e-01 | Phys: 3.3817e-03
+Epoch 4/64 | Sup: 2.5459e-01 | Phys: 3.4587e-03
+Epoch 5/64 | Sup: 2.5375e-01 | Phys: 3.3542e-03
+Epoch 6/64 | Sup: 2.5087e-01 | Phys: 3.4471e-03
+Epoch 7/64 | Sup: 2.4786e-01 | Phys: 3.4834e-03
+Epoch 8/64 | Sup: 2.4385e-01 | Phys: 3.3634e-03
+Epoch 9/64 | Sup: 2.4327e-01 | Phys: 3.3814e-03
+Epoch 10/64 | Sup: 2.3907e-01 | Phys: 3.3869e-03
+Epoch 11/64 | Sup: 2.3438e-01 | Phys: 3.4470e-03
+Epoch 12/64 | Sup: 2.3396e-01 | Phys: 3.4158e-03
+Epoch 13/64 | Sup: 2.3411e-01 | Phys: 3.3633e-03
+Epoch 14/64 | Sup: 2.3027e-01 | Phys: 3.3889e-03
+Epoch 15/64 | Sup: 2.2587e-01 | Phys: 3.4032e-03
+Epoch 16/64 | Sup: 2.2403e-01 | Phys: 3.4154e-03
+Epoch 17/64 | Sup: 2.1974e-01 | Phys: 3.5353e-03
+Epoch 18/64 | Sup: 2.1680e-01 | Phys: 3.3941e-03
+Epoch 19/64 | Sup: 2.1525e-01 | Phys: 3.4021e-03
+Epoch 20/64 | Sup: 2.1084e-01 | Phys: 3.3756e-03
+Epoch 21/64 | Sup: 2.0856e-01 | Phys: 3.5846e-03
+Epoch 22/64 | Sup: 2.0295e-01 | Phys: 3.4586e-03
+Epoch 23/64 | Sup: 2.0073e-01 | Phys: 3.4304e-03
+Epoch 24/64 | Sup: 1.9734e-01 | Phys: 3.5248e-03
+Epoch 25/64 | Sup: 1.9389e-01 | Phys: 3.3761e-03
+Epoch 26/64 | Sup: 1.9307e-01 | Phys: 3.3752e-03
+Epoch 27/64 | Sup: 1.8712e-01 | Phys: 3.3822e-03
+Epoch 28/64 | Sup: 1.8801e-01 | Phys: 3.3830e-03
+Epoch 29/64 | Sup: 1.8338e-01 | Phys: 3.4659e-03
+Epoch 30/64 | Sup: 1.8188e-01 | Phys: 3.3722e-03
+Epoch 31/64 | Sup: 1.7885e-01 | Phys: 3.4103e-03
+Epoch 32/64 | Sup: 1.7492e-01 | Phys: 3.4107e-03
+Epoch 33/64 | Sup: 1.7687e-01 | Phys: 3.3814e-03
+Epoch 34/64 | Sup: 1.7381e-01 | Phys: 3.4111e-03
+Epoch 35/64 | Sup: 1.7083e-01 | Phys: 3.4570e-03
+Epoch 36/64 | Sup: 1.6993e-01 | Phys: 3.3967e-03
+Epoch 37/64 | Sup: 1.6801e-01 | Phys: 3.4417e-03
+Epoch 38/64 | Sup: 1.6527e-01 | Phys: 3.3918e-03
+Epoch 39/64 | Sup: 1.6506e-01 | Phys: 3.4220e-03
+Epoch 40/64 | Sup: 1.6325e-01 | Phys: 3.3633e-03
+Epoch 41/64 | Sup: 1.6132e-01 | Phys: 3.4638e-03
+Epoch 42/64 | Sup: 1.5979e-01 | Phys: 3.4304e-03
+Epoch 43/64 | Sup: 1.5843e-01 | Phys: 3.4459e-03
+Epoch 44/64 | Sup: 1.5908e-01 | Phys: 3.3982e-03
+Epoch 45/64 | Sup: 1.5678e-01 | Phys: 3.3819e-03
+Epoch 46/64 | Sup: 1.5543e-01 | Phys: 3.3583e-03
+Epoch 47/64 | Sup: 1.5516e-01 | Phys: 3.5374e-03
+Epoch 48/64 | Sup: 1.5599e-01 | Phys: 3.3660e-03
+Epoch 49/64 | Sup: 1.5627e-01 | Phys: 3.5657e-03
+Epoch 50/64 | Sup: 1.5330e-01 | Phys: 3.4302e-03
+Epoch 51/64 | Sup: 1.5345e-01 | Phys: 3.4486e-03
+Epoch 52/64 | Sup: 1.5086e-01 | Phys: 3.4437e-03
+Epoch 53/64 | Sup: 1.5046e-01 | Phys: 3.3951e-03
+Epoch 54/64 | Sup: 1.5110e-01 | Phys: 3.4083e-03
+Epoch 55/64 | Sup: 1.4890e-01 | Phys: 3.4409e-03
+Epoch 56/64 | Sup: 1.4978e-01 | Phys: 3.3504e-03
+Epoch 57/64 | Sup: 1.4919e-01 | Phys: 3.3562e-03
+Epoch 58/64 | Sup: 1.4805e-01 | Phys: 3.4111e-03
+Epoch 59/64 | Sup: 1.4733e-01 | Phys: 3.4512e-03
+Epoch 60/64 | Sup: 1.4635e-01 | Phys: 3.4056e-03
+Epoch 61/64 | Sup: 1.4670e-01 | Phys: 3.5810e-03
+Epoch 62/64 | Sup: 1.4528e-01 | Phys: 3.3674e-03
+Epoch 63/64 | Sup: 1.4432e-01 | Phys: 3.4404e-03
+Epoch 64/64 | Sup: 1.4443e-01 | Phys: 3.3764e-03
+
+PIQNN evaluation (test set):
+  - Br_r0 (T): RMSE = 1.068e-05, RelMAE = 0.326, range[1.030e-05, 5.942e-05]
+  - r0 (m): RMSE = 1.901e+08, RelMAE = 0.089, range[1.404e+09, 2.079e+09]
+  - cs (m/s): RMSE = 9.412e+03, RelMAE = 0.129, range[3.040e+04, 7.945e+04]
