@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hardiyan"
+  given-names: "Hari"
+  email: "lorozloraz@gmail.com"
+title: "Differentiable Quantum-Informed Neural Inversion for Transonic Solar Wind Parameters"
+version: 1.0.0
+date-released: 2026-01-08
+url: "https://github.com/harihardiyan/quantum-helios-inversion"
+repository-code: "https://github.com/harihardiyan/quantum-helios-inversion"
+keywords:
+  - "Heliophysics"
+  - "Quantum Machine Learning"
+  - "Physics-Informed Neural Networks"
+  - "Parker Solar Wind"
+  - "JAX"
+  - "PennyLane"
+  - "Variational Quantum Circuits"
+  - "Lambert W Function"
+license: "MIT"
+abstract: >-
+  A hybrid Physics-Informed Quantum Neural Network (PIQNN) framework designed 
+  to solve the inverse problem of heliospheric parameter estimation using 
+  differentiable physics and variational quantum circuits.
